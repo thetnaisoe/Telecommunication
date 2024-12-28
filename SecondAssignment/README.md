@@ -1,6 +1,3 @@
-# Let's create the content for the README.md file and save it to a .md file.
-
-readme_content = """
 # Input File Generator: `protkollInputGenerator.py`
 
 This project involves generating and processing binary files with specific formats. It consists of two main tasks where you read and write binary data according to predefined formats and parameters.

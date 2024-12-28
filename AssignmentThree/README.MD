@@ -1,6 +1,3 @@
-# Let's create the content for the README.md file and save it to a .md file.
-
-readme_content = """
 # Question / Answer Application
 
 This is a simple Question / Answer application where clients attempt to guess a number chosen by the server. The server can serve multiple clients simultaneously and uses a TCP connection for communication. The client uses a logarithmic search algorithm to guess the number.
